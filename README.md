@@ -35,11 +35,7 @@ python test.py --model_dir data/output
 python test.py --policy tree-search-rl --model_dir data/output --phase test --visualize --test_case 0
 ```
 ## Trajectory Diagram
-
-<figure class="half">
-   <img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_traj.png" alt="com_traj" style="zoom:40%;" />
-   <img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_traj.png" alt="sim_traj" style="zoom:40%;" />
-</figure>
+<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_traj.png" alt="com_traj" width=400 />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_traj.png" alt="sim_traj" width=400 />
 
 ## Attention Weights
 
