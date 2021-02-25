@@ -39,10 +39,9 @@ python test.py --policy tree-search-rl --model_dir data/output --phase test --vi
 
 ## Attention Weights
 
-<figure class="half">
-   <img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_att_wei.png" alt="sim_att_wei" style="zoom: 40%;" />
-   <img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_att_wei.png" alt="com_att_wei" style="zoom: 40%;" />
-</figure>
+Simple Scenario            | Complex Scenario
+:-------------------------:|:-------------------------:
+<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_traj.png" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_traj.png" width="400" />
 
 ## Video Demo
 
