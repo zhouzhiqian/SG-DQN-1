@@ -46,8 +46,8 @@ Simple Scenario            | Complex Scenario
 
 ## Video Demo
 Simple Scenario            | Complex Scenario
-:-------------------------:|:-------------------------:
+:success case:
 <img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_suc_case.gif" width="400" />|<img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/com_suc_case.gif" width="400" />
-:-------------------------:|:-------------------------:
+:collision case:
 <img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_col_case.gif" width="400" />|<img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/com_col_case.gif" width="400" />
 
