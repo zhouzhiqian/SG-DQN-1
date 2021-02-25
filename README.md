@@ -45,6 +45,8 @@ Simple Scenario            | Complex Scenario
 <img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_att_wei.png" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_att_wei.png" width="400" />
 
 ## Video Demo
-
-<video src="doc/demo.mp4"></video>
+Simple Scenario            | Complex Scenario
+:-------------------------:|:-------------------------:
+<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_suc_case.gif" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_suc_case.gif" width="400" />
+<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_col_case.gif" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_col_case.gif" width="400" />
 
