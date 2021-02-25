@@ -37,8 +37,7 @@ python test.py --policy tree-search-rl --model_dir data/output --phase test --vi
 ## Trajectory Diagram
 Simple Scenario            | Complex Scenario
 :-------------------------:|:-------------------------:
-<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_traj.png" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/traj.png" width="400" />
-
+<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_traj.png" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/con_traj.png" width="400" />
 ## Attention Weights
 
 Simple Scenario            | Complex Scenario
