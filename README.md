@@ -42,7 +42,7 @@ Simple Scenario            | Complex Scenario
 
 Simple Scenario            | Complex Scenario
 :-------------------------:|:-------------------------:
-<img src="ttps://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_att_wei.png" width="400" />|<img src="/blob/main/doc/com_att_wei.png" width="400" />
+<img src="ttps://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_att_wei.png" width="400" />|<img src="doc/com_att_wei.png" width="400" />
 
 ## Video Demo
 Simple Scenario            | Complex Scenario
