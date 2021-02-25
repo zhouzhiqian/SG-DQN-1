@@ -37,16 +37,16 @@ python test.py --policy tree-search-rl --model_dir data/output --phase test --vi
 ## Trajectory Diagram
 Simple Scenario            | Complex Scenario
 :-------------------------:|:-------------------------:
-<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/sim_traj.png" width="400" />|<img src="https://github.com/nubot-nudt/SG-DQN/blob/main/doc/com_traj.png" width="400" />
+<img src="doc/sim_traj.png" width="400" />|<img src="doc/com_traj.png" width="400" />
 ## Attention Weights
 
 Simple Scenario            | Complex Scenario
 :-------------------------:|:-------------------------:
-<img src="ttps://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_att_wei.png" width="400" />|<img src="doc/com_att_wei.png" width="400" />
+<img src="doc/sim_att_wei.png" width="400" />|<img src="doc/com_att_wei.png" width="400" />
 
 ## Video Demo
 Simple Scenario            | Complex Scenario
 :-------------------------:|:-------------------------:
-<img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_suc_case.gif" width="400" />|<img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/com_suc_case.gif" width="400" />
-<img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/sim_col_case.gif" width="400" />|<img src="https://github.com/zhouzhiqian/SG-DQN-1/blob/main/doc/com_col_case.gif" width="400" />
+<img src="doc/sim_suc_case.gif" width="400" />|<img src="doc/com_suc_case.gif" width="400" />
+<img src="doc/sim_col_case.gif" width="400" />|<img src="doc/com_col_case.gif" width="400" />
 
